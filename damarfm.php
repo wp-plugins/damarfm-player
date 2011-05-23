@@ -23,7 +23,7 @@ function widget_DamarFm_Com($args) {
 <param name="movie" value="http://yayin.damarfm.com/damaraacp.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#141414" />
 <embed src="http://yayin.damarfm.com/damaraacp.swf" quality="high" bgcolor="#141414" width="300" height="250" name="wpembed" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
-<center><a href="http://www.mentalmasturbasyon.com/secim-destek-plugin"><font size="1px">DamarFm.Com Player</font></a></center>
+<center><a href="http://www.damarfm.com"><font size="1px">DamarFm.Com Player</font></a></center>
 
 
         <?php echo $after_widget; ?>
