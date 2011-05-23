@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DamarFm.Com AAc+ Flash Player
-Plugin URI: http://www.damarfm.com/damarfm-plugin
+Plugin URI: http://www.damarfm.com/
 Description: DamarFm AAC+ Flash Player
 Version: 1.0
 Author: Ilyas Kücük
