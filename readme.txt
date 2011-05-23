@@ -1,4 +1,4 @@
-=== DamarFm AAC+ Flash Player ===
+﻿=== DamarFm AAC+ Flash Player ===
 
 Contributors: Ilyas Kücük
 
@@ -66,5 +66,5 @@ Yok.
 
 
 
-1. Görüntülenen Player.
+1. screenshot-1.png
 
