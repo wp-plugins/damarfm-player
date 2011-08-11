@@ -68,5 +68,4 @@ Yok.
 
 
 1. Player Görünümü 1
-2. Player Görünümü 2
 
