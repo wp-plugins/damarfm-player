@@ -3,7 +3,7 @@
 Plugin Name: DamarFm.Com AAc+ Flash Player
 Plugin URI: http://www.damarfm.com/
 Description: DamarFm AAC+ Flash Player
-Version: 1.0
+Version: 1.1
 Author: Ilyas Kücük
 Author URI: http://www.damarfm.com
 */
@@ -23,7 +23,6 @@ function widget_DamarFm_Com($args) {
 <param name="movie" value="damaraacp_wp.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#141414" />
 <embed src="damaraacp_wp.swf" quality="high" bgcolor="#141414" width="300" height="236" name="wpembed" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
-<center><a href="http://www.damarfm.com"><font size="1px">DamarFm.Com Player</font></a></center>
 
 
         <?php echo $after_widget; ?>
