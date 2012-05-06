@@ -10,7 +10,7 @@ Requires at least: 2.6
 
 Tested up to: 3.1.1
 
-Stable tag: 1.2
+Stable tag: 1.3
 
 
 
@@ -46,9 +46,13 @@ Yok.
 
 == Changelog ==
 
+= 1.3 =
+
+* Sanatci Resmi Eklendi
+
 = 1.2 =
 
-* Dinleyici Sayisi eklendi
+* Dinleyici Sayisi Eklendi
 
 = 1.1 =
 
