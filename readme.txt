@@ -1,4 +1,4 @@
-﻿=== DamarFm AAC+ Flash Player ===
+=== DamarFm AAC+ Flash Player ===
 
 Contributors: Ilyas Kücük
 
@@ -10,7 +10,7 @@ Requires at least: 2.6
 
 Tested up to: 3.1.1
 
-Stable tag: 1.3
+Stable tag: 1.4
 
 
 
@@ -46,6 +46,10 @@ Yok.
 
 == Changelog ==
 
+= 1.4 =
+
+* Arkaplan Resmimleri Eklendi
+
 = 1.3 =
 
 * Sanatci Resmi Eklendi
@@ -76,4 +80,10 @@ Yok.
 
 
 1. Player Görünümü 1
+
+2. Player Görünümü 2
+
+3. Player Görünümü 3
+
+4. Player Görünümü 4
 
