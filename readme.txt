@@ -8,7 +8,7 @@ Tags: banner, widget, sidebar, müzik, support, flash, shoutcast player, radyo, 
 
 Requires at least: 2.6
 
-Tested up to: 3.1.1
+Tested up to: 3.3.2
 
 Stable tag: 1.4
 
@@ -79,11 +79,11 @@ Yok.
 == Screenshots ==
 
 
-1. Player Görünümü 1
+1. Player Görünümü
 
-2. Player Görünümü 2
+2. Player Görünümü
 
-3. Player Görünümü 3
+3. Player Görünümü
 
-4. Player Görünümü 4
+4. Player Görünümü
 
