@@ -10,7 +10,7 @@ Requires at least: 2.6
 
 Tested up to: 3.3.2
 
-Stable tag: 1.4
+Stable tag: 1.5
 
 
 
@@ -45,6 +45,10 @@ Yok.
 
 
 == Changelog ==
+
+= 1.5 =
+
+* Cover, Facebook, Twitter Eklendi
 
 = 1.4 =
 
@@ -81,9 +85,6 @@ Yok.
 
 1. Player Görünümü
 
-2. Player Görünümü
+2. Player Görünümü Full
 
-3. Player Görünümü
-
-4. Player Görünümü
 
