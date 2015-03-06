@@ -27,7 +27,7 @@ function widget_DamarFm_Com($args) {
 		}
 	//-->
 	</script>
-	<script type="text/javascript" src="http://yayin.damarfm.com/player.js"></script>
+	<script type="text/javascript" src="http://player.damarfm.com/player.js"></script>
 </div>
 
 

@@ -46,6 +46,10 @@ Yok.
 
 == Changelog ==
 
+= 1.6 =
+
+* Link Updated
+
 = 1.5 =
 
 * Cover, Facebook, Twitter Eklendi
