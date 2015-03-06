@@ -8,9 +8,9 @@ Tags: banner, widget, sidebar, müzik, support, flash, shoutcast player, radyo, 
 
 Requires at least: 2.6
 
-Tested up to: 3.3.2
+Tested up to: 4.1.1
 
-Stable tag: 1.5
+Stable tag: 1.7
 
 
 
@@ -45,6 +45,10 @@ Yok.
 
 
 == Changelog ==
+
+= 1.7 =
+
+* Link Updated
 
 = 1.6 =
 
