@@ -4,7 +4,7 @@ Contributors: Ilyas Kücük
 
 Donate link: http://www.damarfm.com
 
-Tags: damarfm, radyo dinle, damar radyo dinle, music, music player, online radio, online radio plugin, player, plugin, radio, Radio Player, radio plugin, radio WordPress plugin, radyo damarfm wp eklentisi, radyo damarfm, radyo dinle, short code, sidebar, song, widget, wp html5 radyo player, wp radyo player
+Tags: damarfm, radyo dinle, damar radyo dinle, music, music player, online radio, online radio plugin, player, plugin, radio, Radio Player, radio plugin, radio WordPress plugin, radyo damarfm wp eklentisi, radyo damarfm, radyo dinle, short code, sidebar, song, widget, wp html5 radyo player, wp radyo player, müzik
 
 Requires at least: 2.6
 
