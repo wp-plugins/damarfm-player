@@ -17,18 +17,25 @@ function widget_DamarFm_Com($args) {
 ?>
         <?php echo $before_widget; ?>
 
-<div class="player">
-	<script type="text/javascript"><!--
-		var config = {
-			"defaultLanguage" : "tr",
-			"defaultStation" : "all",
-			"autoplay" : "true",
-			"mode" : "mini"
-		}
-	//-->
-	</script>
-	<script type="text/javascript" src="http://player.damarfm.com/player.js"></script>
-</div>
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://yayin.damarfm.com:8080/mp3',
+'lang':'tr',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'buffering':5,
+'title':'Damar FM',
+'welcome':'iyi dinlemeler',
+'wmode':'transparent',
+'skin':'faredirfare',
+'width':269,
+'height':52
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 
 
         <?php echo $after_widget; ?>
